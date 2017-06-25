@@ -1,0 +1,4 @@
+sci_webapp/settings_local.py
+quantum/__pycache__
+sci_webapp/__pycache__
+db.sqlite3
