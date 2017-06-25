@@ -1,0 +1,5 @@
+Django webapp
+
+Local usage : python manage.py runserver
+
+Direct browser to http://localhost:8000/welcome
